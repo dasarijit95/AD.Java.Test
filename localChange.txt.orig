@@ -1,7 +1,11 @@
 //this line is added on my personal MacBook Pro
+//this is another local change
+//this line was added in server
 <<<<<<< HEAD
 
-//this is another local change
+
+//how can i not change the local at the same time
+
 =======
-//this line was added in server
->>>>>>> 1e856135383b26fe145fc75610b78e4424b56af7
+//do that again on server
+>>>>>>> 592575e096bf7dfcfd9ce2aff42fc0894f5344fa
