@@ -1,3 +1,7 @@
 //this line is added on my personal MacBook Pro
 //this is another local change
 //this line was added in server
+
+
+//how can i not change the local at the same time
+
